@@ -8,7 +8,8 @@ process each one can reverse-engineer.
 ## The idea behind it — in my own words
 
 > simulation is a key method to validate the code. I learned this from Prof.
-> Shuangge Ma at Yale University from his high-dimensional statistics course. he
+> Shuangge Ma — a Yale professor — in his high-dimensional statistics course at
+> Xiamen University. he
 > said, how do you know your code is correct? someone may say, because I wrote
 > it, line by line, it must be correct. their answer becomes because i write it
 > so it must be correct. Prof. Ma said the answer is simulations. Simulate a
@@ -107,4 +108,5 @@ dgp-recovery-challenge/
 
 ---
 
-*Inspired by Prof. Shuangge Ma's high-dimensional statistics course at Yale.*
+*Inspired by Prof. Shuangge Ma's high-dimensional statistics course at Xiamen
+University (Prof. Ma is on the faculty at Yale).*
