@@ -1,0 +1,9 @@
+You are a statistical detective. The file ./data.csv in your current working directory is a dataset of n observations with predictor columns x1,x2,x3,x4,x5,x6 and a continuous outcome y. It was produced by an unknown stochastic data-generating process (DGP). Using the data ALONE (write and run your own Python code as needed), reverse-engineer the DGP as precisely as possible.
+
+Determine and report:
+1. The functional form of E[y | x]: the exact set of predictors that matter, any nonlinear transforms (polynomials, periodic/sinusoidal, thresholds), and any interactions between predictors -- with estimated coefficients.
+2. Which predictors are irrelevant (zero effect).
+3. The error / noise structure: its distribution (Gaussian or not? tail behavior?), and whether its variance is constant (homoskedastic) or depends on the predictors (heteroskedastic).
+4. Any other structure: correlations among predictors, outliers / contamination, latent regimes or mixtures.
+
+Be rigorous and quantitative: fit models, inspect residuals, run tests. Then write your final, concrete specification of the DGP -- with actual numbers/coefficients -- to a file named report.md in the current directory. Make report.md self-contained.
