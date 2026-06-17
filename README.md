@@ -9,11 +9,10 @@ process each one can reverse-engineer.
 
 > simulation is a key method to validate the code. I learned this from Prof.
 > Shuangge Ma — a Yale professor — in his high-dimensional statistics course at
-> Xiamen University. he
-> said, how do you know your code is correct? someone may say, because I wrote
-> it, line by line, it must be correct. their answer becomes because i write it
-> so it must be correct. Prof. Ma said the answer is simulations. Simulate a
-> DGP, and see if the code can correctly estimate the DGP.
+> Xiamen University. how do you know your code is correct? someone may say,
+> because I wrote it, line by line, it must be correct. their answer becomes
+> because i write it so it must be correct. but the answer is simulations.
+> Simulate a DGP, and see if the code can correctly estimate the DGP.
 >
 > — *Qihong Ruan*
 
