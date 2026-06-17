@@ -12,7 +12,8 @@ process each one can reverse-engineer.
 > Xiamen University. how do you know your code is correct? someone may say,
 > because I wrote it, line by line, it must be correct. their answer becomes
 > because i write it so it must be correct. but the answer is simulations.
-> Simulate a DGP, and see if the code can correctly estimate the DGP.
+> Simulate a data-generating process (DGP), and see if the code can correctly
+> estimate the DGP.
 >
 > — *Qihong Ruan*
 
